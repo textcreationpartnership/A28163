@@ -1,0 +1,359 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Light breaking forth according to the promise of God discovering it self to the destroying and rasing the fundamentals of antichristian gatherings together, under the notion of the churches of Christ: together with some propheticall hints touching the exaltation of the throne and kingdom of Christ in truth and righteousnesse. With a brief declaration to the inhabitants of these three nations, England, Scotland and Ireland: also a letter to Judge Cooke. ... Written in the year of the worlds wonder, and humbly presented to the saints and servants of the most high God, not in name onely, but in deed and in truth. By a lover of truth, and witnesse hereof, Io. Binckes.</title>
+            <author>Binckes, Joseph.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28163</idno>
+            <idno type="STC">Wing B2914A</idno>
+            <idno type="STC">ESTC R210639</idno>
+            <idno type="EEBO-CITATION">99825441</idno>
+            <idno type="PROQUEST">99825441</idno>
+            <idno type="VID">29823</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29823)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1826:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Light breaking forth according to the promise of God discovering it self to the destroying and rasing the fundamentals of antichristian gatherings together, under the notion of the churches of Christ: together with some propheticall hints touching the exaltation of the throne and kingdom of Christ in truth and righteousnesse. With a brief declaration to the inhabitants of these three nations, England, Scotland and Ireland: also a letter to Judge Cooke. ... Written in the year of the worlds wonder, and humbly presented to the saints and servants of the most high God, not in name onely, but in deed and in truth. By a lover of truth, and witnesse hereof, Io. Binckes.</title>
+                  <author>Binckes, Joseph.</author>
+                  <author>Cook, John, d. 1660.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R.A. for William Larnar at the Black-Moor's head neer Fleet-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:29823:1"/>
+            <p>Light breaking forth According to The Promiſe of God: Diſcovering it ſelf To the deſtroying and raſing the Fun<g ref="char:EOLhyphen"/>damentals of Antichriſtian Gatherings together, un<g ref="char:EOLhyphen"/>der the notion of the Churches of Chriſt: Together with Some Propheticall Hints touching the Exaltation of the Throne and Kingdom of Chriſt in Truth and Righteouſneſſe.</p>
+            <p>WITH A brief Declaration to the Inhabitants of theſe three Nations, <hi>England, Scotland</hi> and <hi>Jreland:</hi> Alſo a Letter to Judge <hi>Cooke.</hi>
+            </p>
+            <p>Conſider theſe things ye great and mighty into of the earth; For, behold the Lord cometh with an Hoſt of hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to govern the earth in Righteouſneſſe, eſtabliſhing equity and ju<gap reason="illegible" resp="#MURP" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>, putting an end to all unrighteouſneſſe, and all that work wickedly together.</p>
+            <p>Written in the year of the worlds wonder, and humbly preſen<g ref="char:EOLhyphen"/>ted to the Saints and Servants of the moſt high God, not in name onely, but in deed and in truth.</p>
+            <p>By a lover of Truth, and Witneſſe hereof, <hi>Io. Binckes.</hi>
+            </p>
+            <q>
+               <bibl>Matth 15. 13.</bibl>
+               <p>Every plant that my heavenly Father hath not planted ſhall be rooted out.</p>
+            </q>
+            <p>
+               <hi>London:</hi> Printed by <hi>R. A:</hi> for <hi>William Larn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r</hi> at the Black-Moor's head neer Fleet-Bridge. 1653.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:29823:2"/>
+            <pb facs="tcp:29823:2"/>
+            <head>A word to the Reader.</head>
+            <p>DEare Friends; and indeed ſo ye are; even as many of you as walk according to the commands of the Lord Jeſus Chriſt, and in ſo doing ye fulfill the whole Law, that is, love; and whoſoever is not found in obedience to the law of love, is not onely an e<g ref="char:EOLhyphen"/>nemy unto his neighbour, but he is an enemy to the Lord Chriſt. I ſhall not trouble you with circumſtances, but accordingly as in all humility I am bound, ſhall preſent to your view the conſideration of theſe things, in which (though darkly) is held forth the fulfilling of many pro<g ref="char:EOLhyphen"/>miſes declared in Scripture: Wherefore whoever thou art that readeſt theſe things, conſider well what thou doeſt e're thou giveſt thy judgment concerning them, left thou erre, not knowing the gift of God; but firſt bring thy judgment into the balance of equity, and then trie and examine whether it will beare weight with them, yea or no; for if thy judgment be found too light, thou wilt ſuffer loſſe, aſſuring thy ſelf, that the day is at hand, in which ſhall be diſcovered all the folly and madneſſe of men, who are yet in captivity in Babylon, and in bon<g ref="char:EOLhyphen"/>dage to the Man of ſin, that ſon of perdition, whom the Lord ſhall deſtroy by the brightneſſe of his coming, and then ſhall be manifeſted all the deceit which hath been practiſed by the Merchants of that great Whore, which is Babylon in the ſpirit ſo called, whoſe wares ſhall prove
+<pb facs="tcp:29823:3"/> no better to thee then the garments of an idol, which are worn out; even as filthy rags: for, the Lord ſhall utter his voice from on high, even the voice of the Archangel, and all the Nations of the earth ſhall fall down and trem<g ref="char:EOLhyphen"/>ble before him, giving glory, and honor, and praiſe to him that liveth for ever and ever.</p>
+            <closer>
+               <signed>Thine in the Lord Jeſus; who at his appearing ſhall change our vile bodies, and make them like unto his glorious body, that as he is, ſo ſhall we be in this preſent world. <hi>Joſeph Binckes.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29823:3"/>
+            <epigraph>
+               <q>
+                  <bibl>Acts 13. 41.</bibl>
+                  <p>Behold ye deſpiſers, and won<g ref="char:EOLhyphen"/>der, and vaniſh away, for I work a work in your dayes, a work which ye ſhall not believe, if a man would declare it you.</p>
+               </q>
+               <q>
+                  <bibl>Acts 2. 17.</bibl>
+                  <p>And it ſhall be in the laſt days, ſaith God, I will powre out of my Spirit upon all fleſh, and your ſons, and your daughters ſhall prophecy, and your young men ſhall ſee viſions, and your old men ſhall dream dreames.</p>
+               </q>
+            </epigraph>
+            <div n="1" type="vision">
+               <head>The firſt Viſion.</head>
+               <p>NOw it came to paſs in the beginning, I was carried as it were into a great wilderneſs, in which I beheld a woman incom<g ref="char:EOLhyphen"/>paſſed with an innumerable company of people, of all Nations, and kindreds, and tongues, crying out with a loud voice, ſaying. <hi>How long Lord, how long will it be e're thou avenge me of my adver<g ref="char:EOLhyphen"/>ſary?</hi> at which the people ran violently upon her, purpoſing to have devoured her, but were not able, only this, they ſtript her of her garments, leaving her naked for a little ſpace, and ſoone after there appeared a great cloud, which ſeparated the woman from the people, and the woman lift up her hands, in which I beheld theſe two names, Juſtice, and Mercy, and on her head, Wonderfull Eternity; after a while the cloud paſſed away, the people as yet remaining, to whom the woman diſcovered her ſelf, at which they were filled with blaſphemous outcries, run<g ref="char:EOLhyphen"/>ing at her with great violence, as before, but ſhe became a great fire, and conſumed them all; and I beheld another people brought forth, whoſe abiding was in and with this fire.</p>
+            </div>
+            <div n="1" type="exposition">
+               <pb n="2" facs="tcp:29823:4"/>
+               <head>The Expoſition of the firſt Viſion.</head>
+               <p>THe wilderneſſe is <hi>Babylon,</hi> that place of confuſion, the in<g ref="char:EOLhyphen"/>habiters whereof being ſuch as are filled with a beaſt-like ſpirit, as Dragoniſh, or Lioniſh, eager of prey, in which, and a<g ref="char:EOLhyphen"/>mong whom the true Church, the Spouſe of Chriſt, as a woman is incompaſſed, and being in pain to be delivered, that is, to bring forth righteouſneſſe her Son: Theſe as enemies being round about her, and hearing her cry, run violently upon her, and ſtrip her of her garments, with which they cloath them<g ref="char:EOLhyphen"/>ſelves, and leave her naked; according as it is written, <hi>they part<g ref="char:EOLhyphen"/>ed my garments amongſt them;</hi> even ſo the ſons of Babel, that great whore, and all that ſerve the man of ſin, do in behalfe of their mother, and the power to which they are in ſubjection, ſtrip the truth at this day) preaching forth ſtrife and contention, ſubjecting the innocent under a colour of profeſſion, wearing the words of truth, but the truth it ſelf is perſecuted by them; therefore hath a cloud ſeparated the truth from them, their un<g ref="char:EOLhyphen"/>derſtandings being darkened: this holds forth ſomething of the Aſcenſion of Chriſt into heaven, which for the manner or nature how he did aſcend, or how he was received into heaven, is known to none, but thoſe who are indeed the Diſciples of Chriſt, and I pray conſider who they are, not thoſe who love the uppermoſt rooms at feaſts, not thoſe that love greetings in the markets, not thoſe that love to be called of all men <hi>Rabbi,</hi> not thoſe who eſteem themſelves above their brethren, not thoſe that perſecute ſtrangers for conſcience ſake, when indeed they ought rather to have received them, &amp; refreſhed them in love, even as the Apoſtle <hi>Paul</hi> writes to the <hi>Hebrews,</hi> ſaying, <hi>forget not to entertain ſtrangers, &amp; to do good forget not:</hi> I might inſtance in many other particulars, but I ſhall leave that, and ſhew to whom its known, that is to ſay, the manner &amp; nature of his Aſcenſion; even to thoſe who like <hi>A<g ref="char:EOLhyphen"/>braham</hi> obey the voice of the Lord, forſaking their fathers houſe, &amp; following the voice of the Lord, not knowing whether they go; as alſo thoſe whom <hi>David</hi> ſpeaks of in the 15. <hi>Pſalm,</hi> or thoſe of whom <hi>Iſaiah</hi> ſpeaks in his 33. chap. ver. 15. and ſo forward, as alſo thoſe who keep their faſt according to <hi>Iſaiah</hi> the 58. ver. 6. and ſo forward; as alſo thoſe, who like the Apoſtles, forſake all that they have for the love of Chriſt, whether father or mother, wife or children, land or livings, goods or good name, yea their owne
+<pb n="3" facs="tcp:29823:4"/> lives alſo; to theſe are made known the myſteries of the Aſcenſi<g ref="char:EOLhyphen"/>on and deſcending of Chriſt, or the Kingdome of the Father, the time therefore is at hand; yea and now is, that the cloud is paſſing away, and the glorious appearance of truth preſents it ſelf, at which the ſons of Babel are inraged, crying out blaſphemy, blaſ<g ref="char:EOLhyphen"/>phemy, executing all that Beaſtiall power by which <hi>Babilon</hi> is upheld, and laying hold on all who own the naked truth, perſe<g ref="char:EOLhyphen"/>cuting and impriſoning of them, but the truth, as a fire from the Lord ſhall conſume them; that is, they being as yet under the power of ſin and Satan, their fleſh ſhall be deſtroyed or conſu<g ref="char:EOLhyphen"/>med, that their ſpirit may be ſaved in the day of the Lord Jeſus, that is in the day wherein he ſhall open their eyes, by which they ſhall ſee themſelves in Babylon, and in the practiſe and power of the man of ſin that ſon of perdition, then ſhall they be brought forth a people zealous of good works, and ſhall praiſe God in the fires; wherefore I humbly commend you to the reading with underſtanding from the Lord, that 47. chap. of <hi>Iſaiah,</hi> in which ye may ſee how the Lord will call to <hi>Babylon,</hi> although ſhe be a Virgin, yet ſhe ſhall ſit in the duſt; even ſo all that profeſs Jeſus Chriſt, although they may appear as a Virgin in an outſide of pro<g ref="char:EOLhyphen"/>feſſion, and yet in their works deny him, being abominable and diſobedient, and to every good work reprobate, ſhall be brought down to ſit in the duſt: This only for caution to all ſuch, who under a colour of Saintſhip deceive the ſimple, leading them in the way of their Fathers, who indeed were they which perſecu<g ref="char:EOLhyphen"/>ted the Prophets, not knowing that if the blind lead the blind, they ſhall both fall into the ditch, that is, the pit of deſtruction.</p>
+            </div>
+            <div n="2" type="vision">
+               <head>The ſecond Viſion.</head>
+               <p>IT came to paſſe alſo, I being as it were in a deſert, beheld an old houſe inhabited with all manner of wild beaſts, cruell and monſtrous, and I heard a voice ſaying unto me, <hi>Seest thou this old houſe, behold I will call my workmen together, and will ſhew them the patern of a new building, and they ſhall pull down this old houſe, and the inhabiters thereof ſhall be destroy'd, and all the ſtone and tymber that is in the old houſe in which is found life, ſhall go into the new building, ſo that nothing be loſt, but that in which is found no life ſhall be caſt into the fire, for the hands of the workmen ſhall prove it.</hi>
+               </p>
+            </div>
+            <div n="2" type="exposition">
+               <pb n="4" facs="tcp:29823:5"/>
+               <head>The Expoſition of the ſecond <g ref="char:V">Ʋ</g>iſion.</head>
+               <p>MAn in this world is as an old houſe in the deſert, which be<g ref="char:EOLhyphen"/>ing inhabited with all manner of beaſts cruell and mon<g ref="char:EOLhyphen"/>ſtrous, ſo man, yea the beſt of men in their firſt ſtate or being, is but of the earth, that is earthy, and during the time of this ſtate, untill man be changed from earthineſſe into ſpirituality, by the coming in of the ſpirit of the Lord: man I ſay is inhabited or poſ<g ref="char:EOLhyphen"/>ſeſſed with ſin, death, hell, and the divell, ſuch beaſts whom the Lord abhorreth, but the Lord will call his workmen together, e<g ref="char:EOLhyphen"/>ven all that work righteouſneſſe, and to them he will ſhew the patern of a new building, that is Chriſt, after whoſe likeneſs they ſhall bring forth another building, and the old building ſhall be deſtroyed, together with the inhabiters thereof, that is, whatſo<g ref="char:EOLhyphen"/>ever man by nature hath lived unto, according to the counſell of the man of ſin, that ſon of perdition, who is exalted above all that is called God, ſhall be pulled down and brought low, and ſin, death, hell, and the divell ſhall be no more, for they ſhall ut<g ref="char:EOLhyphen"/>terly be deſtroyed, and all the ſtone and tymber wherein is life ſhall go into the new building; that is, all the living properties belonging to the new man, which are theſe, love, joy, peace, long-ſuffering, gentleneſſe, goodneſſe, faith; theſe ſhall go into, and be in the new building, that is, the new man; but that in which is no life ſhall go into the fire, that is, whatſoever liveth not in the light and righteouſneſſe of God, ſhall be caſt into the fire of his jealouſie, even all unrighteouſneſs, and all ungodli<g ref="char:EOLhyphen"/>neſs, and uncharitableneſs, of what ſort or kind ſoever, for the hand of the work-maſter ſhall prove it, that is the Lord, who in the day wherein he ſhall be revealed, it ſhall be in flaming fire, to the perdition of ungodly men, but I forbear.</p>
+            </div>
+            <div n="3" type="vision">
+               <head>The third Viſion.</head>
+               <p>IT came to paſs again, that I being as it were in a great wilder<g ref="char:EOLhyphen"/>neſs, heard a voice ſaying unto me, <hi>Call to the Lions, and to the Leopards, and to the Foxes, and to the Lambs; and ſay unto the Li<g ref="char:EOLhyphen"/>ons, for aſmuch as ye have walked in the ſtrength of your might, and have taken the prey on my little ones, I will therefore diſappoint you; and to the Leopards the<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſhalt ſay, although your ſpots appear never ſo many, I will at length take them away, and ye ſhall be exalted; and
+<pb n="5" facs="tcp:29823:5"/> to the foxes thou ſhalt ſay, becauſe of your ſubtilty and deceit, where<g ref="char:EOLhyphen"/>by ye have ſpoiled my vines, I will alſo diſappoint you; and to the lambs thou ſhalt ſay, becauſe ye have given your fleſh to feed the hungry, and your fleece to cloath the naked, ye ſhall be my delight, and ſhall abide with me for ever.</hi>
+               </p>
+            </div>
+            <div n="3" type="exposition">
+               <head>The Expoſition of the third Viſion.</head>
+               <p>
+                  <hi>BAbylon</hi> ſpiritually called, is as this wilderneſſe, in which, and under whoſe power abide theſe four ſorts of beaſts, <hi>viz.</hi> Lions, Leopards, Foxes, Lambs, or comparatively four ſorts of men diſtinguiſhed under theſe four heads: The Lions denote un<g ref="char:EOLhyphen"/>to us the Kings of the earth, and the great and mighty men, with their Captains, and men of Warre, who have been bewitched with the Sorceries of that great Whore, making themſelves drunk with the wine of her fornications; to whom the Lord ſpeaks by the Prophet <hi>David, Pſalm 34. v.</hi> 10. who as yet are under the power of Antichriſt, bearing in the head of their Banner the ef<g ref="char:EOLhyphen"/>figies of the Beaſt, with this <hi>Motto, Peace, Peace;</hi> but as ſoon as innocency and truth appears to diſcover their Idoll, then pro<g ref="char:EOLhyphen"/>ceeds war and perſecution; but the Lord will diſappoint them, as he hath already begun, and will not ceaſe, untill he have fini<g ref="char:EOLhyphen"/>ſhed; by the Leopards, it denotes a people, notwithſtanding they are yet in <hi>Babylon</hi> polluted and ſtained with her pollutions, yet the Lord will make choice of them, and ſhall give them the ſtrength of a Leopard, and they ſhall raſe the foundations of Babel, notwithſtanding their contemptibleneſſe amongſt men, for the favour of the Lord ſhall protect them; by the Foxes is de<g ref="char:EOLhyphen"/>noted unto us the Merchants of the Great Whore, who by their craft and traditions bring in all her gain; theſe being under her power, execute the will of the former, making havock of a good conſcience, ſpoiling the Lords Vineyard, the true Church, bring<g ref="char:EOLhyphen"/>ing in all their receipts of cuſtomes, making the houſe of prayer a den of thieves, and devouring the innocent, eating the Lords people as they were bread, but the Lord ſhall utterly deſtroy them; the Lambs denote unto us, thoſe who live the life of Chriſt, according to his commands, walking in the obedience and the ſimplicity of the Goſpel of truth, notwithſtanding they are perſecuted, afflicted, impriſoned, and ſcattered, by reaſon of the innumberableneſſe of the Foxes which yet remain, having their
+<pb n="6" facs="tcp:29823:6"/> power from the beaſt, making war with the Lamb, but they ſhall be overcome by the Lamb, and the Lambs ſhall be gathered, and ſhall be the delight of the Lord for ever; <hi>Rejoyce therefore O ye that ſerve the Lord over her, for God hath avenged you on her, there<g ref="char:EOLhyphen"/>fore ſhall her plagues come in one day, death, and mourning, and fa<g ref="char:EOLhyphen"/>mine, for ſhe ſhall be utterly burnt with fire, for ſtrong is the Lord who judgeth her.</hi>
+               </p>
+            </div>
+            <div n="4" type="vision">
+               <head>The fourth Viſion.</head>
+               <p>IT came alſo, I being on the ſide of an high hill, whereon was planted a great tree, whoſe armes incompaſſed the valley round about, ſo that when it did rain it rained into the valley, and when the Sun aroſe it ſcorched the hill, ſo that the tree pe<g ref="char:EOLhyphen"/>riſhed in the root for want of moyſture, and at length the tree fell down, and great was the fall thereof, it being found uſefull for nothing but the fire.</p>
+            </div>
+            <div n="4" type="exposition">
+               <head>The Expoſition of the fourth Viſion.</head>
+               <p>BY the hill is held forth the foundation, or womb, out of which, as a tree, doth grow all worldly wiſdome, and poli<g ref="char:EOLhyphen"/>cy, all fleſhly inventions, might, power, and dominion, all hu<g ref="char:EOLhyphen"/>mane traditions, pride, war, and contention, and whatever is of the world, theſe being as arms, or twigs over-powring the ſhrubs in the valleys, by reaſon of their greatneſs and ſtrength, and notwithſtanding the many ſhowres of ſpirituall mercies, yet is it of no profit to this tree, becauſe the foundation thereof is ſo hard, and ſo ſteep, that this rain cannot pierce it, therefore is it, that it runs into the valleys, that is the meek and humble ſoul, even he who accompteth all his righteouſneſs, and all the excellency of things here in this world on this ſide Chriſt, whe<g ref="char:EOLhyphen"/>ther it be honor or eſteem, riches or preferment, or whatever is neer or dear unto him, yea his own life to be as droſs, yea leſs then nothing in compariſon of the Lord Jeſus: the riſing of the Sun, and ſcorching the hill, denotes the powerfull appear<g ref="char:EOLhyphen"/>ing of the preſents of the Lord, which ſhall be in flaming fire, that ſhall ſo ſcorch this hill, that it ſhall periſh in its root, and ſhall aſſuredly fall, and great will be the fall thereof, as indeed it doth already appear at this day, therefore let them to whom
+<pb n="7" facs="tcp:29823:6"/> this may ſpeak, obſerve this, that the tree is already periſhed in its root, and will ſuddainly fall, woe to them on whom it falls, it ſhall deſtroy them together with it ſelf, and the breath of the Lord as a fire of brimſtone ſhall conſume it; conſider this, ye who have ſet up your ſeat on high, even ye whoſe heart is lifted up, who have given your ſelves to pleaſure, coveting riches, ho<g ref="char:EOLhyphen"/>nor and preferment, putting your truſt in the Sword, making fleſh your arm, let me tell you in meekneſs and ſobriety, and in the bowells of unfained love yerning towards you, that theſe things ſhall profit you nothing in the day of the Lord, but ſhall rather teſtifie againſt you; be exhorted therefore to follow peace with all men, and true holineſs, without which no man ſhall ſee the Lord.</p>
+            </div>
+            <div n="5" type="vision">
+               <head>The fifth Viſion.</head>
+               <p>IT came to paſs alſo, I was as it were going through a ſtrange Country, in which I beheld a great houſe, and drawing to<g ref="char:EOLhyphen"/>wards it, I heard a great outcry, and deſiring to know what it meant, the woman thereof came unto me, ſaying, my husband is gone from home, and hath left me with theſe my mercileſs ſer<g ref="char:EOLhyphen"/>vants, who in his abſence have ſlain my children, and moſt unhu<g ref="char:EOLhyphen"/>manely abuſed me, but the time of his returne is at hand, who will deal with them according to their doings.</p>
+            </div>
+            <div n="5" type="exposition">
+               <head>The Expoſition of the fifth Viſion.</head>
+               <p>THe Country here is the world, the which every naturall man travelleth through, as through a ſtrange Country, they having here no abiding City, but as ſtrangers and Pilgrimes here on earth, are looking after and for a City, whoſe Maker and Builder is God: the houſe denotes the Tabernacle of God with men, in which <hi>Jeruſalem</hi> as a ſolitary woman is complaining for the loſs of her children, they being ſlain by the power of maliti<g ref="char:EOLhyphen"/>ouſneſs, which proceeds from wrath, thraldome and death, over which man in the beginning was Lord and Maſter; but now theſe are Maſters, and man is in ſubjection, and become their ſlaves, which is far worſe then a ſervant, inaſmuch as they have given themſelves to pride, vain-glory, and earthly pomp; but its in<g ref="char:EOLhyphen"/>deed becauſe their eyes are not yet opened, ſo that they cannot
+<pb n="8" facs="tcp:29823:7"/> ſee the appearance of the Lord amongſt them, therefore men walk as ſhadows, having no ſubſtance, and their delight is to ſerve that which the Lord will deſtroy, which is their pride, great<g ref="char:EOLhyphen"/>neſs, worldly wiſdom, and indeed all that is at enmity to God; but the time is at hand, yea and now is, that the Lord will break in amongſt you, and your eyes ſhall be opened, and then ye ſhall ſee the emptineſſe of all thoſe things wherein ye have comfort<g ref="char:EOLhyphen"/>ed your ſelves, ſaying, as it were with the rich man, <hi>Soul take thy rest, we have great force in England, in Scotland, and in Ireland, and a great Fleet at Sea:</hi> But let me tell you once more, that ex<g ref="char:EOLhyphen"/>cept you keep the commands of the Lord Chriſt, all theſe ſhall profit you nothing, you know what is commanded in the fifth of <hi>Matth. ver.</hi> 44. to the end of the chap. but theſe things ye fall ſhort of. I pray ye, where is your going from houſe to houſe to viſit the poor, your feeding the hungry, and your cloathing the naked, ought not this to be done? how far then do ye go beyond the Scribes and Phariſees, read the 23. chap. of <hi>Mat.</hi> from the be<g ref="char:EOLhyphen"/>ginning to the end, ſee what is there written ſhall aſſuredly come to paſſe upon this Generation; for I ſay unto you, <hi>this generation ſhall not paſſe away, untill all be fulfilled.</hi>
+               </p>
+            </div>
+            <div n="6" type="vision">
+               <head>The ſixth Viſion.</head>
+               <p>AGain, it came to paſſe I was as it were in a pleaſant field, wherein I beheld the Moon in the firmament incloſe the Sun, but the light of the Sun did extinguiſh the light of the Moon: alſo there appeared three Angells which guarded the Sun; alſo there appeared an altar, whereon was a great fire, and in the midſt thereof was a man ſtanding: there was alſo ano<g ref="char:EOLhyphen"/>ther man ſtanding by the ſide of the altar all alone, and immedi<g ref="char:EOLhyphen"/>ately there appeared a moſt excellent temple, whoſe building was of pure gold, very glorious, having many entrances, to which were as many Angells keeping the way thereof; and the light thereof was as the light of a great fire: Now there was ſtanding by me a man in a mean habit, to whom I ſaid, feeſt thou thou not how excellent this is which doth appear? and he an<g ref="char:EOLhyphen"/>ſwered and ſaid, how ſhould J, ſeeing the morning is dark, and therewith departed?</p>
+            </div>
+            <div n="6" type="exposition">
+               <pb n="9" facs="tcp:29823:7"/>
+               <head>The Expoſition of the ſixth Viſion.</head>
+               <p>BY the morning or dawning of the day, is held forth the neer approach of the day of the Lord, therefore hath he appoint<g ref="char:EOLhyphen"/>ed the Ordinances of the Moon by night; ſo that during the time of this night, the Sun is incloſed by the Moon, that is, the glorious appearance of the Lord Jeſus is incloſed and wrapt up in beggerly rediments and obſervations, carnall Ordinanc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, for<g ref="char:EOLhyphen"/>mall worſhips; but the time is at hand, in which the glory of the Lord ſhall put out the light that is in them, they being but as the light of the Moon; the Firmament denotes unto us the Scri<g ref="char:EOLhyphen"/>pture, which is indeed the witneſſe and teſtifier of all truth: the three Angells hold forth the threefold Office of Chriſt; that is to ſay, Prieſtly, Prophetically and Kingly, in which, and through which, he appears to be the Altar, the fire, and the Sacri<g ref="char:EOLhyphen"/>fice for us, who are as the man ſtanding all alone by the ſide of the Altar, whil'ſt we are yet at a diſtance from Chriſt; but the time is at hand wherein we ſhall ſee him as he is: the Temple de<g ref="char:EOLhyphen"/>notes the love of God, into which he will bring all the ſons of righteouſneſs, even his Saints and Servants, who are afflicted, ſcattered and perſecuted, not after the formality or rudiments of mens teaching, but by an angelicall way and teaching from himſelf<g ref="char:punc">▪</g> himſelf being the light thereof. Now the man in the mean habit held forth thus much, man in his naturall eſtate, being no way inveſted with the ſingleneſs of the love and light of Chriſt, and untill he be inlightened by the Spirit of the Lord Je<g ref="char:EOLhyphen"/>ſus, cannot behold the things of God.</p>
+            </div>
+            <div n="7" type="vision">
+               <head>The ſeventh Viſion.</head>
+               <p>AGaine, it came to paſſe, that J was as it were in a garden, wherein J beheld a tree moſt excellent to behold, being full of blooms, and after a while there aroſe a great ſtorm, and the blooms fell away, and immediately the fruit appeared, it being of every kind was found uſefull for the healing of the Nations.</p>
+            </div>
+            <div n="7" type="exposition">
+               <head>The expoſition of the ſeventh Viſion.</head>
+               <p>NOw the Garden is the heart of the new man, in which the Lord Jeſus as a tree of righteouſneſs ſpreadeth forth all the
+<pb n="10" facs="tcp:29823:8"/> graces of his Spirit, which for number are as the blooms, and no ſooner the excellency thereof doth appear, but anon perſecuti<g ref="char:EOLhyphen"/>on ariſeth as a great ſtorm, being carried on by the power and in<g ref="char:EOLhyphen"/>ſolency of that man of ſin, who is exalted in the Temple of God, and is worſhipped above all that is called God, he being the ene<g ref="char:EOLhyphen"/>my of truth, notwithſtanding this doth not hinder the tree from bringing forth its fruit, but is an advantage rather unto it, there<g ref="char:EOLhyphen"/>fore is it neceſſary that the Lords people ſhould ſuffer, ſeeing the ſeed that is ſown is not quickned, except it die; and if they have perſecuted the Lord and Maſter, how much more will they per<g ref="char:EOLhyphen"/>ſecute the ſervant alſo; and to this end, the Lord Jeſus ſaid to his Diſciples, <hi>except ye ſuffer with me, ye cannot raign with me;</hi> if there<g ref="char:EOLhyphen"/>fore of neceſſity Chriſt muſt ſuffer, then of neceſſity his ſervants muſt ſuffer alſo; be encouraged then all ye who have given up your ſelves to ſerve the Lord, who have not loved your lives un<g ref="char:EOLhyphen"/>to death for ſake of the croſs, which at length ſhall be your crown, and marvell not that the world hate you, know ye not that the world is enmity to God, and that whoſoever loveth the world, and the things thereof, the love of God is not in them: and now cometh the time wherein the powers of this world, with the wiſdome thereof ſhall be overturned, becauſe we ſee the fruit of the tree beginneth to appear; the Lord having given us this teſtimony, ſaying, <hi>Ye know when the fig tree putteth forth her leaves, that Summer is nigh,</hi> ſo when ye ſee theſe things, that is, perſecution for truths ſake, then lift up your heads, for your re<g ref="char:EOLhyphen"/>demption draweth nigh; therefore although the fruit be but in the bud, and the ſeed of Chriſt ſown in us be but in its infancy, yet it ſhall grow and increaſe, and become a healing to all the Nations of the earth, and all Nations ſhall flow in unto us, when the Throne of his love, that is the fulneſſe of the preſence of Chriſt, ſhall be advanced as a Standard amongſt us, and in our hearts, the time is at hand, let as many as are ſpiritually minded wait for it, foraſmuch as they know that their labour is not in vain in the Lord.</p>
+            </div>
+            <div n="8" type="vision">
+               <head>The eighth Viſion.</head>
+               <p>AGaine it came to paſſe, I being in a ſolitary place, in which I beheld a great number of dead carcaſſes, and I heard a
+<pb n="11" facs="tcp:29823:8"/> voice ſaying, <hi>Ariſe and come to iudgment;</hi> and ſtraightway they aroſe, ſeeking for juſtice &amp; judgment, but there was none found, becauſe the true Iudge was not yet come.</p>
+            </div>
+            <div n="8" type="exposition">
+               <head>The expoſition of the eighth Viſion.</head>
+               <p>THe place here which is ſaid to be ſolitary, is the ſtate of na<g ref="char:EOLhyphen"/>ture or mans firſt ſtate, which is corrupt; now all men and creatures living here, that is, in the ſtate of nature, are dead; now the Lord calls unto man to come from that ſtate, wherein is no judgment, but that which is altogether unrighteous, and muſt be deſtroyed, unto a righteous judgment, according to the righ<g ref="char:EOLhyphen"/>teouſneſſe of God in Chriſt; but man by nature being dead to ſins and treſpaſſes, goeth about ſeeking for judgment and juſtice, but cannot find it, becauſe being dead, he hath not ſeen the Lord Chriſt, who is the true Judge of heaven and earth, who though he is not as yet come to them, yet to as many as are inlivened and renewed in the inner man, to them he is already come, and will ſhortly appear in them to judge the whole world.</p>
+            </div>
+            <div n="9" type="vision">
+               <head>The nineth Viſion.</head>
+               <p>AGain it came to paſſe, that I was in a deſart, where I beheld a Pelican feeding her chickens with her heart blood: ſoon after the Pelican died, and the chickens fled away, and ſtraight<g ref="char:EOLhyphen"/>way there appeared a man having a crown on his head, and a voice ſpake, ſaying, <hi>This is he that ſhall rule the Nations with a rod of iron.</hi>
+               </p>
+            </div>
+            <div n="9" type="exposition">
+               <head>The expoſition of the nineth Viſion.</head>
+               <p>BY the Pelican in the deſert, is held forth, man in honor is like the beaſt which periſheth, in regard of this, that man by nature brings forth pride, covetouſneſs, ſelf-love, ſelf-exaltation, envy, wrath, and all that is of this world, which is contrary to the love and light of Jeſus Chriſt theſe: man, yea all men in this ſtation, even as the Pelican feedeth his chickens with his heart bloud, adventuring body and goods, yea his life alſo for the love of theſe; but the time cometh, yea and now is, that man ſhall die to theſe, and they ſhall abide no longer, for the Lord ſhall ariſe with a crown of love, and true righteouſneſs, and ſhall bring in
+<pb n="12" facs="tcp:29823:9"/> his everlaſting power, and the power of the former ſhall fly a<g ref="char:EOLhyphen"/>way, and then ſhall it be that he ſhall rule the Nations with a Rod of Iron, according to the Scripture.</p>
+            </div>
+            <div n="10" type="vision">
+               <head>The tenth Viſion.</head>
+               <p>MOſt worthy friends, ſince I came to this place it hath plea<g ref="char:EOLhyphen"/>ſed God to viſit me with this appearance, <hi>Decemb.</hi> 19. 1652.</p>
+               <p>I was as it were in a Kings Court, to which were gathered to<g ref="char:EOLhyphen"/>gether a great multitude of people, being poor, and halt, and blind, and naked, to the intent the King might do them good, it having been the Kings pleaſure to make proclamation for that end; but the Nobles and the great men were diſpleaſed with the King for what he had done, and therupon fell upon him and flew him; this done, they cauſed an image to be ſet up in the likeneſſe of the King, adorned in the Kings robes: now it came to paſſe that the people being wearied out of their expectation, they departed each to their own home; and after a while the ſpirit of the King viſited his ſervants ſaying, go your way and make known to thoſe people all that hath been done concern<g ref="char:EOLhyphen"/>ing me, and they went ſtraightway and did as they were com<g ref="char:EOLhyphen"/>manded; which when the people heard, they gathered them<g ref="char:EOLhyphen"/>ſelves together and took counſell what to do, but the Nobles and great men made war againſt the poore, and fortified them<g ref="char:EOLhyphen"/>ſelves, but the poor being led on by the counſell of the Kings ſervants, at length overcame thoſe murderers, and diſpoſſeſt them, and put them to flight, and put many in ward till they ſhould give an accompt for what they had done.</p>
+            </div>
+            <div n="10" type="exposition">
+               <head>The expoſition of the tenth Viſion.</head>
+               <p>NOw the Kings Court is the heart of man, in which the Lord Jeſus as King beareth rule, therein is pleaſed to ſpeak peace to the diſquieted and afflicted ſoule, giving life to thoſe who are dead, light to them that ſit in darkneſſe, full<g ref="char:EOLhyphen"/>neſs to them who are empty, inrichment to the poor, ſight to the blind, covering to the naked; at which pride, covetouſ<g ref="char:EOLhyphen"/>neſs, vain-glory, wrath, malice, envy, anger, inſolency, ſtrife, per<g ref="char:EOLhyphen"/>ſecution, theſe having power and place in the ſame Court, that is, in the heart of man, like the Nobles and great men, privily
+<pb n="13" facs="tcp:29823:9"/> flay the King, that is, during the time of their bearing Rule, the Lord as King is as a Lamb ſlain, and Antichriſt is ſet up in the room of the King, adorned in the habit of the King, that is, in outward worſhips and obſervations, by which the people are deceived, and being wearied out of their expectations, return to their home; that is, the time will come that the people ſhall ſee the emptineſs of theſe things, together with the deceit thereof, then they ſhall reſt wholly in the promiſe of Chriſt un<g ref="char:EOLhyphen"/>till his appearing; now the ſpirit of the King viſited his ſer<g ref="char:EOLhyphen"/>va<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, ſaying, go your way and make known all that hath been done concerning me, and ſtraightway they went and did as they were commanded; that is, the powerfull appearance of the Lord Chriſt ſhall ſo appear, that it ſhall ſo inlighten, and inſtruct his ſervants, who in the light thereof ſhall be able to diſcover An<g ref="char:EOLhyphen"/>tichriſt unto thoſe wno were deceived by him, he being ſet up in the Temple of God, being therein as an Angel of light; and they who were deceiv<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, ſhall take ſuch counſell from the ſervants of the Lord, as that they ſhall go forth againſt Antichriſt, and all his train, which is very great amongſt us at this day, but notwith<g ref="char:EOLhyphen"/>ſtanding all the power, and all the force and ſtrength that the men of this world can make in the behalf of the man of ſin, that ſon of perdition, againſt the poor deſpiſed ones, yet they be<g ref="char:EOLhyphen"/>ing led on by the counſell of the Spirit of the Lord, diſplaying the banner of his love, ſhall overcome them, and the adherents of Antichriſt ſhall be brought into ſubjection, by the love of Chriſt exalted in the hearts of his afflicted people, and perſecu<g ref="char:EOLhyphen"/>ted ones.</p>
+               <p>Thus in brief have I given you a taſt of what the Lord hath ſhewed me your unfeigned lover, remembring Mr. <hi>Salimarſh</hi> my fellow-witneſs in the things of God.</p>
+            </div>
+            <div type="afterword">
+               <pb n="14" facs="tcp:29823:10"/>
+               <head>A word of Uſe for all thoſe that profeſſe themſelves Saints and Servants of Jeſus Chriſt, and yet fall ſhort of the true practice practiſed by the Patriarchs, and Prophets, and Apoſtles.</head>
+               <p>NOw whereas God ever appeared for the poor, the father<g ref="char:EOLhyphen"/>leſſe, and afflicted widdow, firſt under the Law, when as yet there was a yearly tythe for the Prieſt, and every third yeare a<note place="margin">Deut. 14. 28, 29. Acts 2. 45 Acts 2. 32 34. Acts 5 4. 1 Theſ. 3. 12. Jam. 1. 17.</note> tythe for the poor. Secondly, in Goſpel-times that ſpirit of love was much more inlarged, when not upon any outward command, as before, but meerly upon the influence of the ſpirit within: Saints were ſo carried forth in love one towards another, and towards all men, though every man had a propriety of his own, yet none of them ſaid, that ought that they poſſeſt was their own, but they had all things common, and no man lacked, yea none of mankind to their power, for their love was unto all, that being pure religion and undefiled before God the Father, to viſit the fatherleſſe and widdow, and to keep themſelves unſpot<g ref="char:EOLhyphen"/>ted from the world: and as it vvas thus under the Lavv and Go<g ref="char:EOLhyphen"/>ſpel, ſo in a third diſpenſation novv approaching, and with ſome preſent, vvhich is the manifeſtation of the ſpirit: it is expected according to the teſtimony of the Prophets and Apoſtles, vvho v<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rote and vvaited for this, that more love ſhould appear among men, and in the Saints, eſpecially tovvards the miſerable part of mankind; but ſo it is, that even in the apoſtaſie and darkeſt times of Popery, yet much hoſpitality and houſes vvere provided for the poor, but novv theſe houſes for the moſt part are taken up for the rich, and that in theſe times of reformation, vvhen the Saints reigne, as they ſay, but is indeed a great diſhonor unto Jeſus Chriſt; therfore it is thought moſt fit that the fatherleſſe and afflicted vviddovv be had into conſideration and provided for.</p>
+               <p>Much more I might vvrite concerning theſe things, but let this ſuffice to vvarn them vvho ſay they are Saints and ſervants of Jeſus Chriſt, and are in a moſt abſurd nature guilty of that pra<g ref="char:EOLhyphen"/>ctice vvhich becom<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th not the Goſpel of our Lord Ieſus Chriſt, &amp; do irreſiſtably gainſay and oppoſe them, vvho out of the inte<g ref="char:EOLhyphen"/>grity and innocency of their ſpirits forevvarn them againſt ſuch
+<pb n="15" facs="tcp:29823:10"/> practices, vvho indeed keep back the right of the labourer, and put the needy out of their houſe; vvhen they ought rather to have refreſhed them: let ſuch knovv, that the Lord is at hand, even at the door, vvho vvill devoure their hypocriſie in the face of the vvhole vvorld, vvhich is the prayer of me for their ſakes vvho are ſcattered and perſecuted, troubled and afflicted for the truths ſake, and have not loved their ovvn lives even unto the death for the teſtimony of the Lord Ieſus Chriſt.</p>
+               <closer>
+                  <signed>J. B.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="address">
+            <head>A briefe warning to the Inhabitants of <hi>England, Scotland,</hi> and <hi>Jreland.</hi>
+            </head>
+            <head type="sub">Or a word of counſell to thoſe that call themſelves by the name of SAINTS.</head>
+            <p n="1">1. WOe to thee, O thou that inhabiteſt theſe Iſles, who haſt exalted thy ſeat on high, even thou who haſt gi<g ref="char:EOLhyphen"/>ven thy ſelf to pride; and whoſe heart is lifted up, who have yeelded your ſelves members of unrighteouſneſs, inaſmuch as that you have given your ſelves to riches, and to honor and pre<g ref="char:EOLhyphen"/>ferment, and have put your truſt in the Sword, making fleſh your arm, and by theſe have forſaken the right way of the moſt high.</p>
+            <p n="2">2. Woe to the wicked, it ſhall be ill with him, for the reward of his hands ſhall be done unto him, for the Lord hath entred in<g ref="char:EOLhyphen"/>to judgement with the antients of his people, and the Princes thereof, for ye have eaten up the Vineyard, and the ſpoil of the poor is in your houſes, what mean you to beat my people, and grind the faces of the poor, ſaith the Lord?</p>
+            <p n="3">3. Woe unto you therefore, for the Sword of the Lord is drawn againſt all ungodlineſs and all unrighteouſneſs, the enmi<g ref="char:EOLhyphen"/>ty and the malice, the perſecution and the ſhedding of innocent bloud, which ſtill remains in you; as alſo your riding the backs of
+<pb n="16" facs="tcp:29823:11"/> your brethren, even as <hi>Balaam</hi> rode the Aſs, who like the Aſs ſer<g ref="char:EOLhyphen"/>ved you ever ſince they became yours, and now becauſe the An<g ref="char:EOLhyphen"/>gell of the Lord hath taken place in the way, they like the Aſs being willing to ſave you, having given their lives as a prey that you might injoy your reſt, and have not ſpared their own inte<g ref="char:EOLhyphen"/>reſt that you might be inricht, yet they are ſmitten, troubled, perſecuted.</p>
+            <p n="4">4. Woe unto you therefore, for the Lord hath given command unto his Angell to withſtand you, untill your eyes be opened, and ye bow your head, and it be made known unto you, that un<g ref="char:EOLhyphen"/>leſſe they had ſaved you, ye had ſurely been deſtroyed.</p>
+            <p n="5">5. Woe unto you, your men ſhall fall by the ſword, and your mighty men in the war, for the Lord will not ceaſe, untill he have brought forth judgment to victory, by putting an end to all that work wickedly, and righteouſneſs and peace perfected with true holineſſe, be eſtabliſhed in you.</p>
+            <p n="6">6. Woe unto you that have called your ſelves by the name of Saints, and yet your practiſe is as the former, who have refuſed to be adviſed, but have out of the pride of your hearts, reſiſted them, who out of the innocency of their Spirits beſought you to be reconciled unto God, and to good works, but ye ſtill re<g ref="char:EOLhyphen"/>tain your old practiſe, keeping back the right of the labourer, and turning the needy out of doors, when ye ought rather to have refreſhed them.</p>
+            <p n="7">7. Woe to you therefore, for the day is at hand wherein the Lord will diſcover your hypocriſie in the face of the whole world, and that for their ſakes, who are ſcattered and perſecuted for the truths ſake, and have not loved their lives even unto the death, for the teſtimony of the Lord Jeſus, who is our rejoycing all the day long, becauſe he hath diſpoſſeſſed the man of ſin by the brightneſſe of his appearing, and hath redeemed us from the dominion of him, by taking poſſeſſion of us, and exalting the Throne of his everlaſting lov<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in our hearts.</p>
+            <p n="8">8. For which we will ſing praiſes to God on high, becauſe he hath judged the great Whore, who in times paſt deceived us; and as ſhe hath done unto us, ſhe ſhall be done unto, yea ſhe ſhall re<g ref="char:EOLhyphen"/>ceive double for all that ſhe hath done unto us, for the Lord hath uttered his voice from on high, and will not ceaſe to plead
+<pb n="17" facs="tcp:29823:11"/> the cauſe of his people againſt her, untill her name be periſhed out of the earth, it being the accompliſhing of that great pro<g ref="char:EOLhyphen"/>miſe, even the bringing in of the new heaven, and the new earth, wherein ſhall dwell everlaſting righteouſneſs, that being the Ci<g ref="char:EOLhyphen"/>ty of the firſt-born, to which we that are redeemed by the com<g ref="char:EOLhyphen"/>ing of the Lord Jeſus are intereſted, having our fellowſhip with the Fath<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r and his Son Jeſus Chriſt, together with an innumera<g ref="char:EOLhyphen"/>ble company of Angels, and the ſpirits of juſt men made perfect.</p>
+            <p n="6">6. Be wiſe now therefore O thou that inhabiteſt theſe Iſles, and be inſtructed ye Rulers thereof, do juſtice, and love mercy, fol<g ref="char:EOLhyphen"/>low peace and holineſſe with all men, without which no man ſhall ſee the Lord, for he is King over all the earth, happy is the man whom the Lord ſhall deliver, he ſhall ſee the ſalvation of God.</p>
+            <p n="10">10. Conſider theſe things, O thou that art exalted, and know that thy exaltation is no other then the exaltation of <hi>Pharoah,</hi> whom God exalted for this end, that he might manifeſt his great power, by deſtroying of him and his hoſt, and ſetting the chil<g ref="char:EOLhyphen"/>dren of Iſrael free.</p>
+            <p n="11">11. Even ſo will the Lord deſtroy all the powers, and all the counſels, &amp; ſhall diſcover all the ſecrets, and ſhall bring all your honors into contempt, and your rich men ſhall mourn and weep, and the poor men ſhall leap as an hart, for that the Lord hath made good his great p<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omiſe unto his people, by exalting the Throne of his everlaſting love in our hearts; as God is love, there<g ref="char:EOLhyphen"/>fore to him be all honor, and all glory, and praiſe, for he only is worthy, inaſmuch as he was manifeſted in fleſh, and was ſlain, and hath redeemed us to God by his blood, out of every Kindred, and Tongue, and People, and Nation, and hath made us unto our God, Kings and Prieſts, and we ſhall raign on the earth.</p>
+         </div>
+         <div type="letter">
+            <pb n="18" facs="tcp:29823:12"/>
+            <head>A Letter preſented to Iudge <hi>Cooke</hi> in IRELAND.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>SInce it hath pleaſed the Almighty God to call you forth into ſo publike a Work, as the Advancement of the Throne and King<g ref="char:EOLhyphen"/>dom of our Lord Jeſus Chriſt, as doth appear by your late printed Labors, called, <hi>Monarchy</hi> no Creature of Gods making, wherein I have obſerved the moſt excellent out-goings of God upon your ſpirit, bearing witneſs with my ſpirit, that he hath made you faithful in this Service, and being hereby invited, and in obedi<g ref="char:EOLhyphen"/>ence unto the Command of God, like faithful <hi>Abraham,</hi> have forſaken all that is near and dear unto me, conſiſting only in exter<g ref="char:EOLhyphen"/>nal things, and as a ſtranger am looking after &amp; for that <hi>City whoſe Maker and Builder is God;</hi> the diſcovery whereof is that which alone is ſufficient to eſtabliſh our hearts, and to give us reſt in theſe times of diſtraction, it being our portion in this world to endure many tribulations; yet in the Lord alone is our peace, of whom and for whom I have much to ſpeak when time and your ſelf ſhall admit: in the mean time be pleaſed to conſider, that the Lord is not ſl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck in making his great Promiſe to appear, which for ſo long ſince was propheſied by the Prophets, ſaying, <hi>Behold I work a work in your days, which you ſhall in no wiſe beléeve, although a man declare it unto you; Your ſons and your daughters ſhall pro<g ref="char:EOLhyphen"/>pheſie, and your young men ſhall ſee viſions:</hi> To which Truth I am made a Witneſs at this time, for their ſakes who indeed wait for the fulfilling and accompliſhing of that Promiſe; which for bre<g ref="char:EOLhyphen"/>vity ſake I ſhall forbear to write, the particulars whereof being many, until that time wherein the Lord ſhall give me opportuni<g ref="char:EOLhyphen"/>ty to ſpeak with you face to face; in whom I have boldneſs to preſent you with theſe few lines, no way doubting but that the Lord will inform your ſpirit more fully touching thoſe things which moſt concern the Exaltation and ſetting up the Throne and Kingdom of the Lord Jeſus Chriſt; for whoſe ſake I am made to account all the excellency of things here below or beneath God to be as dung and droſs, whether it be Honour or Preferment,
+<pb n="19" facs="tcp:29823:12"/> Riches or Eſteem, or whatſoever elſe that is near and dear unto me; yea mine own life alſo, if thereby I might be an advantage to the ſetting up of thoſe things which beſt become the Goſpel of the Lord Jeſus; which indeed is of great worth in theſe our days in theſe Nations, it being ſo lately ſown, and ſcarcely ſprung up to any ſtrength, that even thoſe high winds of Perſecution even among our own ſelves, each man ſeeking his own good, and not his Brothers, but rather his deſtruction; ſo that except the Lord ſtand up and preſerve his own Word, it is yet like to dye; even as ſeed ſown in corrupt ground, which for want of ſoundneſs and ſtrength cannot bear, or bring forth.</p>
+            <p>And now, dear Sir, I humbly beſeech you to bear with me, if any way herein I have overſlipt my ſelf, and paſs by the failings which haply may appear by my rude Intruſion; and accept the good intention or meaning of him, who is and waiteth to be your faithful Friend and Servant in the Service and Obedience of the Lord Jeſus Chriſt:</p>
+            <closer>
+               <dateline>
+                  <hi>Cork,</hi> 
+                  <date>
+                     <hi>Decemb.</hi> 16. 1652.</date>
+               </dateline>
+               <signed>Joſeph Binkes.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <lg>
+               <l>The great Men of the Earth, they ſhall their glory bring,</l>
+               <l>And lay it down even at his feet, who is their Lord and King.</l>
+               <l>Their Righteouſneſs alafs, to them ſhall prove as droſs,</l>
+               <l>When as indeed they ſhall behold the glory of the Croſs:</l>
+               <l>Then ſhall the Lord alone be ſeen to be our praiſe,</l>
+               <l>When it ſhall be our Song, his Kingdom for to raiſe.</l>
+            </lg>
+            <p>This is Truth: <hi>Let him that hath an ear to hear, hear.</hi>
+            </p>
+         </div>
+         <div type="queries">
+            <pb n="20" facs="tcp:29823:13"/>
+            <head>Some Queres propoſed touching the true Miniſters of the Goſpel, and the falſe Prophets.</head>
+            <p n="1">FIrſt, whether any man as a Miniſter profeſſing him<g ref="char:EOLhyphen"/>ſelf to be a Miniſter and ſervant of the Lord Jeſus, ought not to give a true teſtimony of his knowing the Word of God, which is indeed to know God, and eternall l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe?</p>
+            <p n="2">Secondly, whether or no he or they who have this te<g ref="char:EOLhyphen"/>ſtimony, have not put on the Lord Jeſus as a ſeal of truth, he being the gift of God, and eternall life?</p>
+            <p n="3">Thirdly, whether or no he or they who after the order of men profeſſe themſelves to be the true Miniſters and not having this teſtimony, are not, or at leaſt may be accounted the falſe Prophets?</p>
+            <p>Theſe being as yet unanſwered, I am made ſilent, and waiting upon God for a further diſcovery touching theſe things, who in that day wherein he ſhall make knowne unto the ſons of men thoſe things which belong to their peace and the ſpirit of truth, then ſhall it be made mani<g ref="char:EOLhyphen"/>feſt who are the true Prophets from the falſe.</p>
+            <epigraph>
+               <q>My ſheep heare my voice, a ſtranger they <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill not follow.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
